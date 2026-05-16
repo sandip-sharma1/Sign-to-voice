@@ -1,10 +1,10 @@
-# Symbol-to-Voice: A Multimodal System for Symbol Recognition and Speech Generation
+# Sign-to-Voice: A Multimodal System for Symbol Recognition and Speech Generation
 
 A multimodal system that converts visual symbols or gestures into natural human speech, enabling assistive communication with multilingual support (English and Nepali).
 
 ## Overview
 
-Symbol-to-Voice is an early-stage research project that integrates computer vision techniques for symbol recognition with neural text-to-speech (TTS) models for speech generation. The system aims to interpret input symbols and convert them into intelligible speech in multiple languages, supporting accessibility for individuals with speech or hearing impairments.
+Sign-to-Voice is an early-stage research project that integrates computer vision techniques for symbol recognition with neural text-to-speech (TTS) models for speech generation. The system aims to interpret input symbols and convert them into intelligible speech in multiple languages, supporting accessibility for individuals with speech or hearing impairments.
 
 ## Problem Statement
 
